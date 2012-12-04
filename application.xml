@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<application xmlns="http://ns.adobe.com/air/application/2.6">
+  <id>TankWar</id>
+  <versionNumber>1</versionNumber>
+  <filename>TankWar</filename>
+  <name>TankWar</name>
+  <initialWindow>
+    <title>TankWar</title>
+    <content>SplitScreen.swf</content>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <minimizable>true</minimizable>
+    <maximizable>false</maximizable>
+    <resizable>false</resizable>
+  </initialWindow>
+  <!-- 
+	More options:
+	http://livedocs.adobe.com/flex/3/html/File_formats_1.html#1043413
+	-->
+  <description>In a near future, where the world is at war, all countries are at an arms race. The global oil supplies are soon to run out and the country to wipe out the rest first will have world dominance within its grasp</description>
+  <copyright>Hogeschool Rotterdam</copyright>
+  <versionLabel>1</versionLabel>
+  <icon>
+    <image16x16>icons/TankWar16.png</image16x16>
+    <image29x29>icons/TankWar29.png</image29x29>
+    <image32x32>icons/TankWar32.png</image32x32>
+    <image36x36>icons/TankWar36.png</image36x36>
+    <image48x48>icons/TankWar48.png</image48x48>
+    <image57x57>icons/TankWar57.png</image57x57>
+    <image72x72>icons/TankWar72.png</image72x72>
+    <image128x128>icons/TankWar128.png</image128x128>
+    <image512x512>icons/TankWar512.png</image512x512>
+  </icon>
+</application>
